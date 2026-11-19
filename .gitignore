@@ -4,3 +4,8 @@ core
 obj/
 benchlog.*
 user.bazelrc
+build/
+build.old/
+.deps/
+memtest/*_probe
+memtest/chunk_match
